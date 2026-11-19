@@ -6,3 +6,5 @@ Umesto da ručno pokrećeš svaku funkciju posebno i čuvaš međurezultate, pip
 1. Mašinsko učenje (Scikit-learn)
 2. Obrada podataka (ETL i Data Engineering)
 3. Obrada teksta i NLP (Hugging Face)
+
+
