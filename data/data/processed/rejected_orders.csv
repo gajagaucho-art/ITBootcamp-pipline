@@ -1,0 +1,142 @@
+order_id,order_date,product_id,quantity,unit_price,payment,customer,city,product_name,team_code,category,total,reason
+ NSS-00002 ,2026-08-15,1094,3,1290.0,CARD, Jovana Pavlović ,Čačak,BRU Cap,BRU,caps,3870.0,invalid_order
+NSS-00034,2026-08-16,1031,0,7490.0,CARD,Ivana Petrović,Kraljevo,BMC Home Jersey,BMC,jerseys,0.0,invalid_quantity
+ NSS-00058 ,2026-08-17,1038,2,1990.0,CARD, Vuk Lazić ,Niš,AFV Scarf,AFV,scarves,3980.0,invalid_order
+ NSS-00059 ,2026-08-17,1005,1,990.0,CARD,Petar Stojanović,Beograd,NPM Mug,NPM,accessories,990.0,invalid_order
+TST-00077,2026-08-18,1098,1,1490.0,CARD, Petar Đorđević , Sombor ,GSR Scarf,GSR,scarves,1490.0,invalid_order
+TST-00084,2026-08-19,1078,1,1990.0,CARD,Đorđe Jovanović,Kragujevac,VDC Scarf,VDC,scarves,1990.0,invalid_order
+ NSS-00090 ,2026-08-19,1037,1,6490.0,PAYPAL,Milica Petrović,Novi Sad,AFV Away Jersey,AFV,jerseys,6490.0,invalid_order
+ NSS-00103 ,2026-08-20,1037,1,6490.0,PAYPAL,Marko Đorđević,Novi Sad,AFV Away Jersey,AFV,jerseys,6490.0,invalid_order
+NSS-00108,2026-08-20,1085,0,1490.0,PAYPAL,Milan Pavlović, Čačak ,OKT Mug,OKT,accessories,0.0,invalid_quantity
+NSS-00131,2026-08-21,1022,0,6490.0,CARD,Nikola Đorđević,Čačak,KLT Away Jersey,KLT,jerseys,0.0,invalid_quantity
+ NSS-00149 ,2026-08-22,1049,1,1790.0,PAYPAL,Teodora Stojanović,Beograd,GMW Cap,GMW,caps,1790.0,invalid_order
+ TST-00164 ,2026-08-23,1073,1,1490.0,CARD,Katarina Kovačević,Beograd,LSB Scarf,LSB,scarves,1490.0,invalid_order
+ NSS-00168 ,2026-08-23,1009,3,1290.0,CARD,Teodora Lazić,Niš,IVU Cap,IVU,caps,3870.0,invalid_order
+ NSS-00186 ,2026-08-23,1044,3,1290.0,CASH,Nikola Živković,Kragujevac,RVA Cap,RVA,caps,3870.0,invalid_order
+ NSS-00213 ,2026-08-25,1013,0,1490.0,CARD, Ivana Ilić ,Novi Sad,FWR Scarf,FWR,scarves,0.0,invalid_order
+ NSS-00220 ,2026-08-25,1042,1,6490.0,CASH,Teodora Pavlović, Zrenjanin ,RVA Away Jersey,RVA,jerseys,6490.0,invalid_order
+ NSS-00259 ,2026-08-28,1025,1,1490.0,CARD,Katarina Živković,Subotica,KLT Mug,KLT,accessories,1490.0,invalid_order
+NSS-00289,2026-08-29,1019,1,0.0,CARD,Sara Đorđević,Kragujevac,HGA Cap,HGA,caps,0.0,invalid_price
+ NSS-00290 ,2026-08-29,1042,1,6490.0,CARD,Teodora Nikolić,Čačak,RVA Away Jersey,RVA,jerseys,6490.0,invalid_order
+ NSS-00292 ,2026-08-29,1026,1,6990.0,CASH, Milica Jovanović , Čačak ,STH Home Jersey,STH,jerseys,6990.0,invalid_order
+ NSS-00309 ,2026-08-30,1067,2,6490.0,CARD, Sara Stojanović ,Novi Sad,EKR Away Jersey,EKR,jerseys,12980.0,invalid_order
+ NSS-00318 ,2026-08-31,1085,1,1490.0,CARD,Teodora Jovanović,Čačak,OKT Mug,OKT,accessories,1490.0,invalid_order
+NSS-00322,2026-08-31,1014,1,0.0,CASH,Milica Ilić,Subotica,FWR Cap,FWR,caps,0.0,invalid_price
+ NSS-00377 ,2026-09-03,1081,1,6490.0,CARD,Đorđe Živković,Pančevo,OKT Home Jersey,OKT,jerseys,6490.0,invalid_order
+ NSS-00396 ,2026-09-04,1033,1,1990.0,PAYPAL,Sara Marković,Zrenjanin,BMC Scarf,BMC,scarves,1990.0,invalid_order
+NSS-00398,2026-09-04,1070,0,1490.0,CASH,Sara Kovačević,Niš,EKR Mug,EKR,accessories,0.0,invalid_quantity
+NSS-00426,2026-09-05,1095,0,490.0,PAYPAL,Milica Petrović,Kraljevo,BRU Mug,BRU,accessories,0.0,invalid_quantity
+ NSS-00436 ,2026-09-06,1024,2,1290.0,PAYPAL,Vuk Stojanović,Subotica,KLT Cap,KLT,caps,2580.0,invalid_order
+ NSS-00451 ,2026-09-06,1014,1,2290.0,PAYPAL,Stefan Lazić,Kragujevac,FWR Cap,FWR,caps,2290.0,invalid_order
+ NSS-00452 ,2026-09-06,1033,1,1990.0,PAYPAL,Ana Petrović, Sombor ,BMC Scarf,BMC,scarves,1990.0,invalid_order
+ NSS-00468 ,2026-09-07,1037,1,6490.0,CARD,Sara Petrović, Beograd ,AFV Away Jersey,AFV,jerseys,6490.0,invalid_order
+ NSS-00484 ,2026-09-08,1005,2,990.0,CASH,Nikola Kovačević,Zrenjanin,NPM Mug,NPM,accessories,1980.0,invalid_order
+ NSS-00487 ,2026-09-08,1055,2,990.0,PAYPAL,Petar Marković,Pančevo,CHS Mug,CHS,accessories,1980.0,invalid_order
+ NSS-00496 ,2026-09-08,1033,3,1990.0,CARD,Đorđe Stojanović, Sombor ,BMC Scarf,BMC,scarves,5970.0,invalid_order
+NSS-00526,2026-09-10,1050,1,0.0,CASH,Ivana Đorđević,Novi Sad,GMW Mug,GMW,accessories,0.0,invalid_price
+NSS-00533,2026-09-11,1028,-3,1490.0,CASH, Nikola Živković ,Sombor,STH Scarf,STH,scarves,-4470.0,invalid_quantity
+TST-00543,2026-09-11,1014,2,2290.0,PAYPAL,Ivana Đorđević,Sombor,FWR Cap,FWR,caps,4580.0,invalid_order
+NSS-00547,2026-09-11,9999,2,2290.0,CARD,Ana Marković,Novi Sad,,,,4580.0,unknown_product
+ NSS-00548 ,2026-09-12,1018,2,1490.0,CASH, Petar Jovanović ,Beograd,HGA Scarf,HGA,scarves,2980.0,invalid_order
+ NSS-00570 ,2026-09-13,1068,2,1490.0,PAYPAL,Milan Živković,Zrenjanin,EKR Scarf,EKR,scarves,2980.0,invalid_order
+NSS-00602,2026-09-14,1062,-1,6990.0,CASH,Vuk Pavlović, Sombor ,PCU Away Jersey,PCU,jerseys,-6990.0,invalid_quantity
+ NSS-00607 ,2026-09-14,1078,2,1990.0,CARD,Stefan Nikolić,Subotica,VDC Scarf,VDC,scarves,3980.0,invalid_order
+ NSS-00608 ,2026-09-14,1094,1,1290.0,CASH,Teodora Nikolić,Kragujevac,BRU Cap,BRU,caps,1290.0,invalid_order
+TST-00636,2026-09-16,1050,1,1490.0,CARD, Teodora Pavlović ,Kragujevac,GMW Mug,GMW,accessories,1490.0,invalid_order
+NSS-00650,2026-09-17,1105,2,0.0,PAYPAL,Sara Marković, Kraljevo ,NSL Keychain,,accessories,0.0,invalid_price
+ NSS-00674 ,2026-09-18,1076,1,6490.0,CASH,Petar Marković,Beograd,VDC Home Jersey,VDC,jerseys,6490.0,invalid_order
+ NSS-00678 ,2026-09-18,1067,1,6490.0,CASH, Ana Đorđević ,Čačak,EKR Away Jersey,EKR,jerseys,6490.0,invalid_order
+ NSS-00709 ,2026-09-20,1061,3,6990.0,CARD, Đorđe Marković ,Beograd,PCU Home Jersey,PCU,jerseys,20970.0,invalid_order
+ NSS-00736 ,2026-09-21,1002,1,6990.0,PAYPAL,Marko Popović,Čačak,NPM Away Jersey,NPM,jerseys,6990.0,invalid_order
+NSS-00740,2026-09-21,999,2,6990.0,CASH,Vuk Ilić,Čačak,,,,13980.0,unknown_product
+ NSS-00782 ,2026-09-23,1006,1,6990.0,PAYPAL, Jelena Ilić ,Pančevo,IVU Home Jersey,IVU,jerseys,6990.0,invalid_order
+ NSS-00791 ,2026-09-24,1033,1,1990.0,PAYPAL,Ana Marković,Beograd,BMC Scarf,BMC,scarves,1990.0,invalid_order
+ NSS-00799 ,2026-09-24,1057,1,5990.0,CASH,Stefan Stojanović,Novi Sad,WFT Away Jersey,WFT,jerseys,5990.0,invalid_order
+NSS-00845,2026-09-26,9999,1,1490.0,CARD,Luka Ilić,Zrenjanin,,,,1490.0,unknown_product
+ NSS-00875 ,2026-09-28,1071,1,6490.0,CASH,Ivana Kovačević,Pančevo,LSB Home Jersey,LSB,jerseys,6490.0,invalid_order
+ NSS-00882 ,2026-09-28,1077,2,6490.0,CASH,Teodora Lazić,Kragujevac,VDC Away Jersey,VDC,jerseys,12980.0,invalid_order
+ NSS-00886 ,2026-09-28,1047,3,5990.0,CARD,Marko Nikolić, Kraljevo ,GMW Away Jersey,GMW,jerseys,17970.0,invalid_order
+ NSS-00889 ,2026-09-29,1090,1,990.0,PAYPAL,Marko Petrović,Kragujevac,MBA Mug,MBA,accessories,990.0,invalid_order
+ NSS-00903 ,2026-09-29,1001,3,7490.0,CARD, Đorđe Đorđević , Subotica ,NPM Home Jersey,NPM,jerseys,22470.0,invalid_order
+ NSS-00909 ,2026-09-29,1016,1,6490.0,PAYPAL,Ivana Đorđević,Beograd,HGA Home Jersey,HGA,jerseys,6490.0,invalid_order
+NSS-00921,2026-09-30,9999,3,2290.0,CARD, Marko Jovanović , Beograd ,,,,6870.0,unknown_product
+ NSS-00948 ,2026-10-02,1041,1,6990.0,CARD,Sara Ilić,Zrenjanin,RVA Home Jersey,RVA,jerseys,6990.0,invalid_order
+ NSS-00953 ,2026-10-02,1052,2,6990.0,PAYPAL,Stefan Živković, Subotica ,CHS Away Jersey,CHS,jerseys,13980.0,invalid_order
+NSS-00960,2026-10-02,1039,1,-500.0,PAYPAL,Jovana Živković,Beograd,AFV Cap,AFV,caps,-500.0,invalid_price
+ NSS-00971 ,2026-10-03,1038,2,1990.0,CASH,Vuk Popović,Čačak,AFV Scarf,AFV,scarves,3980.0,invalid_order
+ NSS-00999 ,2026-10-04,1008,1,1990.0,CASH,Sara Živković, Sombor ,IVU Scarf,IVU,scarves,1990.0,invalid_order
+ NSS-01014 ,2026-10-04,1060,3,490.0,CARD, Milica Živković , Beograd ,WFT Mug,WFT,accessories,1470.0,invalid_order
+ NSS-01015 ,2026-10-04,1049,1,1790.0,CARD,Vuk Petrović,Sombor,GMW Cap,GMW,caps,1790.0,invalid_order
+TST-01030,2026-10-05,1092,2,5990.0,CARD,Stefan Petrović,Zrenjanin,BRU Away Jersey,BRU,jerseys,11980.0,invalid_order
+NSS-01038,2026-10-06,1093,-1,1990.0,CASH,Milan Pavlović, Subotica ,BRU Scarf,BRU,scarves,-1990.0,invalid_quantity
+ NSS-01049 ,2026-10-06,1093,1,1990.0,CARD, Milan Lazić ,Pančevo,BRU Scarf,BRU,scarves,1990.0,invalid_order
+ NSS-01091 ,2026-10-08,1029,3,2290.0,PAYPAL, Sara Đorđević ,Beograd,STH Cap,STH,caps,6870.0,invalid_order
+ NSS-01102 ,2026-10-09,1079,1,1790.0,CARD, Luka Pavlović ,Niš,VDC Cap,VDC,caps,1790.0,invalid_order
+ NSS-01125 ,2026-10-10,1072,1,6990.0,PAYPAL,Jovana Petrović,Beograd,LSB Away Jersey,LSB,jerseys,6990.0,invalid_order
+NSS-01136,2026-10-10,1028,0,1490.0,CARD, Jovana Jovanović ,Čačak,STH Scarf,STH,scarves,0.0,invalid_quantity
+ NSS-01154 ,2026-10-11,1075,1,990.0,CARD,Jelena Lazić,Beograd,LSB Mug,LSB,accessories,990.0,invalid_order
+ NSS-01181 ,2026-10-13,1038,3,1990.0,CARD, Milan Lazić ,Novi Sad,AFV Scarf,AFV,scarves,5970.0,invalid_order
+ NSS-01183 ,2026-10-13,1012,1,5990.0,PAYPAL,Đorđe Marković,Subotica,FWR Away Jersey,FWR,jerseys,5990.0,invalid_order
+ NSS-01207 ,2026-10-14,1065,3,490.0,CASH, Đorđe Nikolić ,Kraljevo,PCU Mug,PCU,accessories,1470.0,invalid_order
+ NSS-01227 ,2026-10-15,1069,1,1290.0,CASH,Jovana Lazić,Zrenjanin,EKR Cap,EKR,caps,1290.0,invalid_order
+ NSS-01284 ,2026-10-18,1037,1,6490.0,PAYPAL,Milica Ilić, Kraljevo ,AFV Away Jersey,AFV,jerseys,6490.0,invalid_order
+NSS-01285,2026-10-18,9999,2,6490.0,CASH,Ivana Popović,Kraljevo,,,,12980.0,unknown_product
+ NSS-01290 ,2026-10-19,1062,1,6990.0,CASH,Marko Marković,Kragujevac,PCU Away Jersey,PCU,jerseys,6990.0,invalid_order
+ NSS-01342 ,2026-10-21,1019,2,2290.0,CASH,Vuk Kovačević,Sombor,HGA Cap,HGA,caps,4580.0,invalid_order
+NSS-01363,2026-10-22,1037,-1,6490.0,PAYPAL,Ana Đorđević,Subotica,AFV Away Jersey,AFV,jerseys,-6490.0,invalid_quantity
+ NSS-01389 ,2026-10-24,1011,1,6990.0,PAYPAL,Milan Marković,Pančevo,FWR Home Jersey,FWR,jerseys,6990.0,invalid_order
+NSS-01424,2026-10-25,1007,0,6490.0,PAYPAL,Đorđe Kovačević,Beograd,IVU Away Jersey,IVU,jerseys,0.0,invalid_quantity
+ NSS-01446 ,2026-10-26,1041,1,6990.0,PAYPAL,Katarina Kovačević, Subotica ,RVA Home Jersey,RVA,jerseys,6990.0,invalid_order
+ NSS-01450 ,2026-10-26,1075,2,990.0,PAYPAL, Jelena Popović ,Subotica,LSB Mug,LSB,accessories,1980.0,invalid_order
+ NSS-01466 ,2026-10-27,1015,1,490.0,CARD,Luka Živković,Novi Sad,FWR Mug,FWR,accessories,490.0,invalid_order
+ NSS-01470 ,2026-10-28,1029,2,2290.0,CARD, Ivana Pavlović ,Beograd,STH Cap,STH,caps,4580.0,invalid_order
+ NSS-01485 ,2026-10-28,1065,1,490.0,CARD,Stefan Petrović, Beograd ,PCU Mug,PCU,accessories,490.0,invalid_order
+NSS-01505,2026-10-29,1013,3,0.0,CARD,Stefan Pavlović, Kragujevac ,FWR Scarf,FWR,scarves,0.0,invalid_price
+ NSS-01520 ,2026-10-31,1025,3,1490.0,PAYPAL,Marko Petrović, Kragujevac ,KLT Mug,KLT,accessories,4470.0,invalid_order
+NSS-01555,2026-11-01,1061,-2,6990.0,CARD, Jovana Živković ,Sombor,PCU Home Jersey,PCU,jerseys,-13980.0,invalid_quantity
+ NSS-01565 ,2026-11-01,1024,1,1290.0,CARD,Katarina Stojanović,Beograd,KLT Cap,KLT,caps,1290.0,invalid_order
+ NSS-01574 ,2026-11-02,1038,2,1990.0,CASH,Stefan Popović,Čačak,AFV Scarf,AFV,scarves,3980.0,invalid_order
+ NSS-01578 ,2026-11-02,1019,2,2290.0,PAYPAL,Katarina Đorđević,Čačak,HGA Cap,HGA,caps,4580.0,invalid_order
+ NSS-01589 ,2026-11-02,1066,1,6990.0,CARD,Luka Jovanović,Pančevo,EKR Home Jersey,EKR,jerseys,6990.0,invalid_order
+ NSS-01593 ,2026-11-03,1014,3,2290.0,PAYPAL,Teodora Petrović,Beograd,FWR Cap,FWR,caps,6870.0,invalid_order
+ NSS-01602 ,2026-11-03,1028,1,1490.0,PAYPAL,Milan Popović,Kragujevac,STH Scarf,STH,scarves,1490.0,invalid_order
+NSS-01603,2026-11-03,999,2,2990.0,CARD,Stefan Živković,Kraljevo,,,,5980.0,unknown_product
+NSS-01612,2026-11-04,1070,0,1490.0,CARD,Katarina Živković,Zrenjanin,EKR Mug,EKR,accessories,0.0,invalid_quantity
+ NSS-01615 ,2026-11-04,1059,2,1790.0,CARD,Ana Popović,Pančevo,WFT Cap,WFT,caps,3580.0,invalid_order
+NSS-01618,2026-11-04,1065,1,0.0,CASH,Petar Stojanović,Kragujevac,PCU Mug,PCU,accessories,0.0,invalid_price
+NSS-01620,2026-11-04,1023,3,0.0,CARD,Sara Nikolić,Novi Sad,KLT Scarf,KLT,scarves,0.0,invalid_price
+ NSS-01621 ,2026-11-04,1035,1,990.0,CARD,Đorđe Đorđević,Kragujevac,BMC Mug,BMC,accessories,990.0,invalid_order
+TST-01633,2026-11-05,1075,1,990.0,CASH,Jovana Lazić, Kraljevo ,LSB Mug,LSB,accessories,990.0,invalid_order
+ NSS-01658 ,2026-11-07,1010,1,490.0,CASH,Jelena Pavlović, Subotica ,IVU Mug,IVU,accessories,490.0,invalid_order
+ NSS-01673 ,2026-11-07,1074,3,1790.0,CARD,Teodora Petrović,Novi Sad,LSB Cap,LSB,caps,5370.0,invalid_order
+ NSS-01702 ,2026-11-08,1041,1,6990.0,CARD,Petar Ilić,Pančevo,RVA Home Jersey,RVA,jerseys,6990.0,invalid_order
+NSS-01708,2026-11-09,1039,0,1290.0,CARD,Petar Petrović,Kraljevo,AFV Cap,AFV,caps,0.0,invalid_quantity
+ NSS-01727 ,2026-11-10,1040,3,1490.0,PAYPAL,Teodora Đorđević,Novi Sad,AFV Mug,AFV,accessories,4470.0,invalid_order
+ NSS-01737 ,2026-11-10,1049,1,1790.0,CARD,Stefan Stojanović,Subotica,GMW Cap,GMW,caps,1790.0,invalid_order
+TST-01741,2026-11-10,1061,3,6990.0,CASH,Ivana Ilić, Subotica ,PCU Home Jersey,PCU,jerseys,20970.0,invalid_order
+ NSS-01785 ,2026-11-13,1062,1,6990.0,CARD, Jelena Jovanović ,Zrenjanin,PCU Away Jersey,PCU,jerseys,6990.0,invalid_order
+NSS-01806,2026-11-14,1092,0,5990.0,CARD,Teodora Petrović, Niš ,BRU Away Jersey,BRU,jerseys,0.0,invalid_quantity
+NSS-00152,2026-08-22,1043,1,1990.0,CASH,Jelena Popović,Subotica,RVA Scarf,RVA,scarves,1990.0,duplicate
+NSS-00180,2026-08-23,1088,2,1990.0,CASH,Sara Kovačević,Subotica,MBA Scarf,MBA,scarves,3980.0,duplicate
+NSS-00152,2026-08-22,1043,1,1990.0,CASH,Jelena Popović,Subotica,RVA Scarf,RVA,scarves,1990.0,duplicate
+NSS-00217,2026-08-25,1061,1,6990.0,CASH,Nikola Popović, Sombor ,PCU Home Jersey,PCU,jerseys,6990.0,duplicate
+NSS-00244,2026-08-27,1075,2,990.0,CARD,Stefan Kovačević,Zrenjanin,LSB Mug,LSB,accessories,1980.0,duplicate
+NSS-00268,2026-08-28,1024,3,1290.0,PAYPAL, Milan Stojanović , Zrenjanin ,KLT Cap,KLT,caps,3870.0,duplicate
+NSS-00180,2026-08-23,1088,2,1990.0,CASH,Sara Kovačević,Subotica,MBA Scarf,MBA,scarves,3980.0,duplicate
+NSS-00335,2026-08-31,1045,1,1490.0,PAYPAL,Stefan Popović,Kraljevo,RVA Mug,RVA,accessories,1490.0,duplicate
+NSS-00244,2026-08-27,1075,2,990.0,CARD,Stefan Kovačević,Zrenjanin,LSB Mug,LSB,accessories,1980.0,duplicate
+NSS-00268,2026-08-28,1024,3,1290.0,PAYPAL, Milan Stojanović , Zrenjanin ,KLT Cap,KLT,caps,3870.0,duplicate
+NSS-00217,2026-08-25,1061,1,6990.0,CASH,Nikola Popović, Sombor ,PCU Home Jersey,PCU,jerseys,6990.0,duplicate
+NSS-00335,2026-08-31,1045,1,1490.0,PAYPAL,Stefan Popović,Kraljevo,RVA Mug,RVA,accessories,1490.0,duplicate
+NSS-00553,2026-09-12,1039,1,1290.0,PAYPAL, Petar Marković ,Novi Sad,AFV Cap,AFV,caps,1290.0,duplicate
+NSS-00553,2026-09-12,1039,1,1290.0,PAYPAL, Petar Marković ,Novi Sad,AFV Cap,AFV,caps,1290.0,duplicate
+NSS-00649,2026-09-17,1012,1,5990.0,CARD,Ana Marković,Subotica,FWR Away Jersey,FWR,jerseys,5990.0,duplicate
+NSS-00759,2026-09-22,1068,2,1490.0,PAYPAL,Marko Marković,Subotica,EKR Scarf,EKR,scarves,2980.0,duplicate
+NSS-00649,2026-09-17,1012,1,5990.0,CARD,Ana Marković,Subotica,FWR Away Jersey,FWR,jerseys,5990.0,duplicate
+NSS-00759,2026-09-22,1068,2,1490.0,PAYPAL,Marko Marković,Subotica,EKR Scarf,EKR,scarves,2980.0,duplicate
+NSS-01172,2026-10-12,1020,1,990.0,CARD,Milica Lazić,Kraljevo,HGA Mug,HGA,accessories,990.0,duplicate
+NSS-01172,2026-10-12,1020,1,990.0,CARD,Milica Lazić,Kraljevo,HGA Mug,HGA,accessories,990.0,duplicate
+NSS-01274,2026-10-18,1042,3,6490.0,CARD,Đorđe Nikolić,Beograd,RVA Away Jersey,RVA,jerseys,19470.0,duplicate
+NSS-01274,2026-10-18,1042,3,6490.0,CARD,Đorđe Nikolić,Beograd,RVA Away Jersey,RVA,jerseys,19470.0,duplicate
+NSS-01594,2026-11-03,1030,1,990.0,CARD,Sara Nikolić,Kraljevo,STH Mug,STH,accessories,990.0,duplicate
+NSS-01594,2026-11-03,1030,1,990.0,CARD,Sara Nikolić,Kraljevo,STH Mug,STH,accessories,990.0,duplicate
